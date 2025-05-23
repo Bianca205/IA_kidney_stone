@@ -166,3 +166,8 @@ Veja o arquivo `requirements.txt` para todas as dependências com versões fixas
 > Baixe-o em: `https://universe.roboflow.com/xray-abdomen-to-identify-stones/stone_in_urinary_system/dataset/7`
 
 1. Descompacte o ZIP na raiz do projeto e renomeie a pasta para `dataset/`
+
+## Modelo
+O modelo foi removido do repositório por exceder 100 MB (limite do GitHub), mas está disponível para download aqui:
+
+🔗 [Clique para baixar o modelo treinado (best_model.pt)](https://drive.google.com/file/d/1ObtX8LzbeC3aXLog1l5vewfVaYclcFRD/view?usp=drive_link)
