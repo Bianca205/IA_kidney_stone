@@ -1,0 +1,8 @@
+ultralytics==8.3.142
+torch==2.6.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+matplotlib==3.8.4
+google==3.0.0
+IPython==8.24.0
+
